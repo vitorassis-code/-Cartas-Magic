@@ -1,4 +1,5 @@
 Segue a opção de cartas que você pode buscar dentro deste projeto: 
+
 • Black Lotus – Uma das cartas mais famosas e valiosas do jogo.
 
 • The One Ring – Artefato lendário poderoso, muito procurado por colecionadores e jogadores.
